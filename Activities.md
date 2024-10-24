@@ -3,7 +3,7 @@ title: Activities
 layout: page2
 ---
 
-# Journal Paper
+# Activities
 
 2023. (with Victor Junnan Pan) [A case of pseudo-optionality as a consequence of language contact](#https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT), Revue Roumaine de Linguistique, volume 
 LXVIII, issue 3, 285-299.
