@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: Publications
+layout: Page
 ---
 
 > Journal Paper: 
