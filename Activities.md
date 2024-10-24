@@ -5,10 +5,6 @@ layout: page2
 
 # Activities
 
-2023. (with Victor Junnan Pan) [A case of pseudo-optionality as a consequence of language contact](#https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT), Revue Roumaine de Linguistique, volume 
-LXVIII, issue 3, 285-299.
-2022. (with Victor Junnan Pan) Xiàndàihànyǔ yíwèncí de jùfǎcéngjí zàitàn (現代漢語疑問詞的句法層級再探) [On the syntactic hierarchy of wh-words in 
-Mandarin Chinese]. Yuyanxue Luncong (語言學論叢), (1), 100-124.
 
 
 # Conference Proceedings
