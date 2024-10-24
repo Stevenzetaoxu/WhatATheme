@@ -11,8 +11,7 @@ layout: page
 
 # Conference Proceedings
 
-2023. <a href="https://www.researchgate.net/publication/379755057_Labeling_Mandarin_ditransitives">Labeling Mandarin ditransitives</a>. In Tae Sik Kim (eds) proceedings of the 25th Seoul International Conference on Generative Grammar 
-(SICOGG-25), 245-260.
+2023. <a href="https://www.researchgate.net/publication/379755057_Labeling_Mandarin_ditransitives">Labeling Mandarin ditransitives</a>. In Tae Sik Kim (eds) proceedings of the 25th Seoul International Conference on Generative Grammar (SICOGG-25), 245-260. <br>
 
 2023. <a href="https://drive.google.com/file/d/1aSdPgsRqoo09A2H3o8wYgRlhhazjJNal/view?pli=1">The syntactic hierarchy of Mandarin wh-adjunts</a>. In Chien-Jer Charles Lin, Alex Cherici, & Bihua Chen (eds) proceedings of the 34th North American Conference on Chinese Linguistics (NACCL-34), 1-21. 
 
