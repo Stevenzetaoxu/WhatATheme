@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Activities
 layout: page2
 ---
 
