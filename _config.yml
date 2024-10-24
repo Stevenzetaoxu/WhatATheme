@@ -43,7 +43,8 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Zetao Xu
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /WhatATheme/assets/images/Personal photo.jpg
+
 # 60 Words About the Author
 author-about: I am a PhD student in the Chinese University of Hong Kong (CUHK), co-supervised by Professor <a href="https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/">Victor Junnan 
     Pan</a> (CUHK) and <a href="https://www.robertadalessandro.it/">Roberta D'Alessandro</a> (Utrecht University)
