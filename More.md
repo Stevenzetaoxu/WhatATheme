@@ -9,13 +9,13 @@ layout: page
 
 ### Teaching assistant (CUHK)
 
-LING2005 Syntax I 
-LING3104 Syntax II 
-LING3101 Morphology 
-LING3206 Bilingualism 
+* LING2005 Syntax I 
+* LING3104 Syntax II 
+* LING3101 Morphology 
+* LING3206 Bilingualism 
 
 ### Academic activities
 
-Member of [Heritage Language Syntax](https://sites.google.com/view/heritagelanguagesyntax/home) (HLS).
-Member of [European Association of Chinese Linguistics](https://www.chineselinguistics.eu/) (EACL).
-Member of [International Association of Chinese Linguistics](http://iacl-linguistics.org/) (IACL).
+* Member of [Heritage Language Syntax](https://sites.google.com/view/heritagelanguagesyntax/home) (HLS).
+* Member of [European Association of Chinese Linguistics](https://www.chineselinguistics.eu/) (EACL).
+* Member of [International Association of Chinese Linguistics](http://iacl-linguistics.org/) (IACL).
