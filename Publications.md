@@ -3,21 +3,20 @@ title: Publications
 layout: page
 ---
 
-### &nbsp;&nbsp;Journal Paper
-<p style="text-indent: 2em;"> 2023. (with Victor Junnan Pan) <a href="https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT">A case of pseudo-optionality as a consequence of language contact</a>, Revue Roumaine de Linguistique, volume LXVIII, issue 3, 285-299. <br><br>
+&nbsp;&nbsp;Journal Paper <!-- h3 -->
+
+<p style="text-indent: -2em; margin-left: 2em;"> 2023. (with Victor Junnan Pan) <a href="https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT">A case of pseudo-optionality as a consequence of language contact</a>, Revue Roumaine de Linguistique, volume LXVIII, issue 3, 285-299. <br><br>
         
 <p> 2022. (with Victor Junnan Pan) Xiàndàihànyǔ yíwèncí de jùfǎcéngjí zàitàn <a href="https://www.researchgate.net/publication/364344860_xiandaihanyuyiwencidejufacengjizaitan_On_the_Syntactic_Hierarchy_of_Wh-words_in_Mandarin_Chinese">On the syntactic hierarchy of wh-words in Mandarin Chinese</a>. Yuyanxue Luncong , (1), 100-124. (In Chinese) <br><br>
 
 
-### &nbsp;&nbsp;Conference Proceedings <br><br>
+&nbsp;&nbsp;Conference Proceeding <!-- h3 --> <br><br>
 
 2023. <a href="https://www.researchgate.net/publication/379755057_Labeling_Mandarin_ditransitives">Labeling Mandarin ditransitives</a>. In Tae Sik Kim (eds) proceedings of the 25th Seoul International Conference on Generative Grammar (SICOGG-25), 245-260. <br><br>
 
 2023. <a href="https://drive.google.com/file/d/1aSdPgsRqoo09A2H3o8wYgRlhhazjJNal/view?pli=1">The syntactic hierarchy of Mandarin wh-adjunts</a>. In Chien-Jer Charles Lin, Alex Cherici, & Bihua Chen (eds) proceedings of the 34th North American Conference on Chinese Linguistics (NACCL-34), 1-21.<br><br> 
 
-### &nbsp;&nbsp;Edited Volume <br><br>
-
-<a href="x">x</a>
+&nbsp;&nbsp;Edited Volume <!-- h3 --> <br><br>
 
 2024. (with Xiangyu Li, Yuqiao Du,  Chenghao Hu, Zhongyang Yu, Zhuo Chen, Victor Junnan Pan). <a href="https://www.researchgate.net/publication/383878915_Proceedings_of_the_14th_Generative_Linguistics_in_the_Old_World_in_Asia_GLOW_in_Asia_XIV_httpslingcuhkeduhkglowxivProceedings_GLOWinAsia14thpdf">Proceedings of the 14th Generative Linguistics in the Old World in Asia</a> (GLOW in Asia XIV) 2024, Department of Linguistics and Modern Languages, The Chinese University of Hong Kong.<br><br>
 
