@@ -1,9 +1,7 @@
 ---
-title: Presentations
+title: Talks and Presentations
 layout: page
 ---
-
-### &nbsp;&nbsp;Talks and Presentations
 
 2024. (with Victor Junnan Pan) On poly-definiteness and the structure of DP in nDrapa. Workshop of the 24th International Conference of the Department of Linguistics of the University of Bucharest: Special definites, demonstratives, and pronouns. University of Bucharest, 15-16 November. 
 
