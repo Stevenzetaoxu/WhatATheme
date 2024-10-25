@@ -5,12 +5,12 @@ layout: page
 
 &nbsp;&nbsp;**Journal Paper** <!-- h4 -->
 
-<p style="text-indent: -3em; margin-left: 3em;"> 2023. (with Victor Junnan Pan) <a href="https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT">A case of pseudo-optionality as a consequence of language contact</a>, Revue Roumaine de Linguistique, volume LXVIII, issue 3, 285-299. <br><br>
+<p style="text-indent: -3em; margin-left: 3em;">2023. (with Victor Junnan Pan) <a href="https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT">A case of pseudo-optionality as a consequence of language contact</a>, Revue Roumaine de Linguistique, volume LXVIII, issue 3, 285-299. <br><br>
         
-<p style="text-indent: -2.5em; margin-left: 3em;"> 2022. (with Victor Junnan Pan) Xiàndàihànyǔ yíwèncí de jùfǎcéngjí zàitàn <a href="https://www.researchgate.net/publication/364344860_xiandaihanyuyiwencidejufacengjizaitan_On_the_Syntactic_Hierarchy_of_Wh-words_in_Mandarin_Chinese">On the syntactic hierarchy of wh-words in Mandarin Chinese</a>. Yuyanxue Luncong , (1), 100-124. (In Chinese) <br><br>
+<p style="text-indent: -2.5em; margin-left: 3em;">2022. (with Victor Junnan Pan) Xiàndàihànyǔ yíwèncí de jùfǎcéngjí zàitàn <a href="https://www.researchgate.net/publication/364344860_xiandaihanyuyiwencidejufacengjizaitan_On_the_Syntactic_Hierarchy_of_Wh-words_in_Mandarin_Chinese">On the syntactic hierarchy of wh-words in Mandarin Chinese</a>. Yuyanxue Luncong , (1), 100-124. (In Chinese) <br><br>
 
 
-&nbsp;&nbsp;**Conference Proceeding** <!-- h4 --> <br><br>
+Conference Proceeding<!-- h4 --> <br><br>
 
 <p style="text-indent: -2.5em; margin-left: 3em;"> 2023. <a href="https://www.researchgate.net/publication/379755057_Labeling_Mandarin_ditransitives">Labeling Mandarin ditransitives</a>. In Tae Sik Kim (eds) proceedings of the 25th Seoul International Conference on Generative Grammar (SICOGG-25), 245-260. <br><br>
 
