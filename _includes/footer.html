@@ -38,6 +38,18 @@
                 </li>
             </div>
 
+               <!--Contact-->
+            <div class="column has-text-white">
+                <h3>Contact</h3>
+                {% for sitepage in site.html_pages offset: 4 %}
+                {% unless sitepage.url == '/'  limit: 2 %}
+        
+                {% endunless %}
+                {% endfor %}
+                <li>
+                    <a target="_blank" href="https://ling.cuhk.edu.hk/">Email</a>
+                </li>
+            </div>
         </div>
     </div>
     <div class="has-background-black has-text-centered has-text-white" id="credits">
