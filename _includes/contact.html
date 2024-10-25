@@ -8,7 +8,7 @@
                 <i class="fab fa-facebook-messenger"></i>Ping me on Messenger
             </a>
             {% endunless %}
-            {% unless site.email == "zetaoxu@link.cuhk.edu.hk"%}
+            {% unless site.email == %}
             <a id="contact-button" href="mailto:{{zetaoxu@link.cuhk.edu.hk}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
@@ -23,8 +23,8 @@
                 {% unless site.facebook_username == %}
                 <a href="http://www.facebook.com/{{Steven Xu}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
                 {% endunless %}
-                 {% unless site.facebook_username == %}
-                <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
+                 {% unless site.email == %}
+                <a href="mailto:{{zetaoxu@link.cuhk.edu.hk}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
                 {% endunless %}
                 
             </div>
