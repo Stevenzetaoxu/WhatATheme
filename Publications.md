@@ -3,6 +3,12 @@ title: Publications
 layout: page
 ---
 
+## Journal Paper
+
+<p style="text-indent: -3em; margin-left: 3em;">2023. (with Victor Junnan Pan) <a href="https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT">A case of pseudo-optionality as a consequence of language contact</a>, Revue Roumaine de Linguistique, volume LXVIII, issue 3, 285-299.
+
+<p style="text-indent: -2.5em; margin-left: 3em;">2022. (with Victor Junnan Pan) Xiàndàihànyǔ yíwèncí de jùfǎcéngjí zàitàn <a href="https://www.researchgate.net/publication/364344860_xiandaihanyuyiwencidejufacengjizaitan_On_the_Syntactic_Hierarchy_of_Wh-words_in_Mandarin_Chinese">On the syntactic hierarchy of wh-words in Mandarin Chinese</a>. Yuyanxue Luncong , (1), 100-124. (In Chinese)
+
 &nbsp;&nbsp;**Journal Paper** <!-- h4 -->
 
 <p style="text-indent: -3em; margin-left: 3em;">2023. (with Victor Junnan Pan) <a href="https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT">A case of pseudo-optionality as a consequence of language contact</a>, Revue Roumaine de Linguistique, volume LXVIII, issue 3, 285-299. <br><br>
