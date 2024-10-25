@@ -28,11 +28,6 @@
             <!--Link Section-->
             <div class="column has-text-white">
                 <h3>More Links</h3>
-                {% for sitepage in site.html_pages offset: 4 %}
-                {% unless sitepage.url == '/'  limit: 2 %}
-        
-                {% endunless %}
-                {% endfor %}
                 <li>
                     <a target="_blank" href="https://ling.cuhk.edu.hk/">CUHK Linguistics</a>
                 </li>
@@ -44,8 +39,6 @@
                <li>
                     Email: zetaoxu[at]link.cuhk.edu.hk</a>
                 </li>
-                
-                {% endfor %}
             </div>
         </div>
     </div>
