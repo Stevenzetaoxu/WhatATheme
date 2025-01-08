@@ -3,7 +3,7 @@ title: Project
 layout: page
 ---
 
-## Heritage Chinese language in the Netherlands: Contact induced syntactic change
+## Heritage Chinese language in Europe: Contact induced syntactic change
 
 ### What is heritage language and their speakers?
 
