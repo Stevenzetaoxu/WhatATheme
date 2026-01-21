@@ -357,9 +357,9 @@ a.navbar-item.is-active {
 
 // 增加页面边距
 .container {
-    max-width: 900px !important;  // 限制内容最大宽度
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
+
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
 }
 
 // 如果只想调整普通页面（如 Publications），不影响博客
@@ -368,5 +368,6 @@ a.navbar-item.is-active {
     padding-left: 3rem !important;
     padding-right: 3rem !important;
 }
+
 
 
