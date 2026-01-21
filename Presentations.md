@@ -2,6 +2,21 @@
 title: Talks and Presentations
 layout: page
 ---
+<p style="text-indent: -3em; margin-left: 3em;">2026. The DP structure of nDrapa: when a classifier and a definite marker co-occur, GLOW in Asia 2026 The 2nd Workshop for Young Scholars (GLOW-in-Asia-WYS), Nanzan University, Nagoya, March 13-15.</p>
+
+<p style="text-indent: -3em; margin-left: 3em;">2025. (with Roberta D’Alessandro & Victor Junnan Pan) Number agreement in heritage Chinese in Europe, Heritage Language Syntax 6, Boğaziçi University, Istanbul, Türkiye, November 6-7.</p>
+
+<p style="text-indent: -3em; margin-left: 3em;">2025. Hànyǔ jìchéngyǔ de shùliàng yízhìxìng [Number agreement in heritage Chinese], dì sān jiè jīnghùgǎngào gāoxiào zhōngwén xuékē yánjiūshēng lùntán [the 3rd Jinghugangao university postgraduate Chinese forum], Fudan University, Shanghai, September 20-21.</p>
+
+<p style="text-indent: -3em; margin-left: 3em;">2025. (with Victor Junnan Pan) Grammaticalization of demonstratives and the nominal structure in nDrapa, the 58th International Conference on Sino-Tibetan Languages and Linguistics (ICSTLL-58), University of Bern, Switzerland, September 3-5.</p>
+
+<p style="text-indent: -3em; margin-left: 3em;">2025. (with Roberta D’Alessandro & Victor Junnan Pan) Are there Third Factor effects in language contact? Evidence from Heritage Chinese, International Conference on Syntax and Semantics (ICSS), annual conference of The Society of Modern Grammar (SMOG), Gyeongkuk National University, Andong city, South Korea, August 11-13.</p>
+
+<p style="text-indent: -3em; margin-left: 3em;">2025. (with Victor Junnan Pan) Interaction of UG and the 3rd principles in resumptive pronouns: evidence from heritage Chinese in the Netherlands and France, The workshop on Third Factors in Language Design: the view from Heritage Languages, INALCO, Paris, France, June 6.</p>
+
+<p style="text-indent: -3em; margin-left: 3em;">2025. (with Victor Junnan Pan) The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands, Pacific Second Language Research Forum in conjunction with Conference on Innovation in L2 Chinese Acquisition Research, Shanghai Jiaotong University, May 30-June 1.</p>
+
+<p style="text-indent: -3em; margin-left: 3em;">2025. Change and Stability of Resumptive Pronouns: From Heritage Chinese in Europe, Uiltjesdagen, Utrecht University, April 2-3.</p>
 
 <p style="text-indent: -3em; margin-left: 3em;">2024. (with Victor Junnan Pan) On poly-definiteness and the structure of DP in nDrapa. Workshop of the 24th International Conference of the Department of Linguistics of the University of Bucharest: Special definites, demonstratives, and pronouns. University of Bucharest, 15-16 November.</p>
 
