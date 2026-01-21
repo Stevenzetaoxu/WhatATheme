@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Zetao Xu
 # Description of the Site
-description: A Linguist/Syntactician
+description: A Linguist
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -107,6 +107,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
