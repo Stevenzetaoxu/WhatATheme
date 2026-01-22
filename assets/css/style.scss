@@ -347,19 +347,23 @@ a.navbar-item.is-active {
 }
 
 #page-section {
+    text-align: justify !important;
     .content {
         ul, ol, blockquote {
             display: inline-block;
-            text-align: justify !important;
+          
         }
     }
-
+    .content p {
+        text-align: justify !important;
+    }
 }
 
     .container {
-    padding-left: 3rem !important;
-    padding-right: 3rem !important;
+    padding-left: 5rem !important;
+    padding-right: 5rem !important;
     }
+
 
 
 
