@@ -354,10 +354,12 @@ a.navbar-item.is-active {
         }
     }
     .container {
+    max-width: 900px !important;
     padding-left: 2rem !important;
     padding-right: 3rem !important;
     }
 }
+
 
 
 
