@@ -10,7 +10,7 @@ layout: page
 
 <p style="text-indent: -3em; margin-left: 3em;">Xu, Zetao & Victor Junnan Pan. 2023. <a href="https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT">A case of pseudo-optionality as a consequence of language contact</a>, Revue Roumaine de Linguistique, volume LXVIII, issue 3, 285-299. (SSCI) </p>
 
-<p style="text-indent: -3em; margin-left: 3em;"> 潘俊楠,徐澤韜. 2022. 現代漢語疑問詞的句法層級再探, 語言學論叢 (1), 100-124. Pan, Victor Junnan & Zetao Xu. 2022. <a href="https://www.researchgate.net/publication/364344860_xiandaihanyuyiwencidejufacengjizaitan_On_the_Syntactic_Hierarchy_of_Wh-words_in_Mandarin_Chinese">On the syntactic hierarchy of wh-words in Mandarin Chinese</a>. Essays on Linguistics, (1), 100-124. (CSSCI)</p>
+<p style="text-indent: -3em; margin-left: 3em;"> 潘俊楠,徐泽韬. 2022. 现代汉语疑问词都句法层级再探, 语言学论丛 (1), 100-124. Pan, Victor Junnan & Zetao Xu. 2022. <a href="https://www.researchgate.net/publication/364344860_xiandaihanyuyiwencidejufacengjizaitan_On_the_Syntactic_Hierarchy_of_Wh-words_in_Mandarin_Chinese">On the syntactic hierarchy of wh-words in Mandarin Chinese</a>. Essays on Linguistics, (1), 100-124. (CSSCI)</p>
 
 ### Conference Proceeding
 
