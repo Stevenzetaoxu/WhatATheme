@@ -2,6 +2,11 @@
 title: Talks and Presentations
 layout: page
 ---
+
+<p style="text-indent: -3em; margin-left: 3em;">2026. ‘上古汉语复指代词探析’[Investigating resumpitve pronouns in Archaic Chinese], paper presented at the 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, Guangzhou, June 12–14.
+
+<p style="text-indent: -3em; margin-left: 3em;">2026. Xu, Zetao and Victor Junnan Pan (2026). ‘On the non-prototypical singular-plural number system in nDrapa’, paper presented at the 4th Conference on the Endangered Languages of East Asia, Ca’ Foscari University of Venice, Italy, 5th-8th May 2026.
+
 <p style="text-indent: -3em; margin-left: 3em;">2026. The DP structure of nDrapa: when a classifier and a definite marker co-occur, GLOW in Asia 2026 The 2nd Workshop for Young Scholars (GLOW-in-Asia-WYS), Nanzan University, Nagoya, March 13-15.</p>
 
 <p style="text-indent: -3em; margin-left: 3em;">2025. (with Roberta D’Alessandro & Victor Junnan Pan) Number agreement in heritage Chinese in Europe, Heritage Language Syntax 6, Boğaziçi University, Istanbul, Türkiye, November 6-7.</p>
