@@ -6,7 +6,7 @@ layout: page
 ### Journal Paper
 
 
-<p style="text-indent: -3em; margin-left: 3em;">徐澤韜,潘俊楠. 2026. 漢語複數標記在不同接觸模式下的不同演變特徵<a href="https://www.cuhk.edu.hk/ics/clrc/crcl_105_2/xu.pdf">, 中國語文通訊. Xu, Zetao & Victor Junnan Pan. 2026. Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios, Current Research in Chinese Linguistics. (CSSCI) </p>
+<p style="text-indent: -3em; margin-left: 3em;">徐澤韜,潘俊楠. 2026. <a href="https://www.cuhk.edu.hk/ics/clrc/crcl_105_2/xu.pdf">漢語複數標記在不同接觸模式下的不同演變特徵</a> , 中國語文通訊. Xu, Zetao & Victor Junnan Pan. 2026. Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios, Current Research in Chinese Linguistics. (CSSCI) </p>
 
 <p style="text-indent: -3em; margin-left: 3em;">Xu, Zetao & Victor Junnan Pan. 2023. <a href="https://www.researchgate.net/publication/377661612_A_CASE_OF_PSEUDO-OPTIONALITY_AS_A_CONSEQUENCE_OF_LANGUAGE_CONTACT">A case of pseudo-optionality as a consequence of language contact</a>, Revue Roumaine de Linguistique, volume LXVIII, issue 3, 285-299. (SSCI) </p>
 
